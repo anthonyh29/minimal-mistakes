@@ -6,7 +6,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Page not found. Your pixels are in another canvas."
 sitemap: false
-permalink: /travel.md
+permalink: /travel.html
 ---
 
 This would be random text - inint!
