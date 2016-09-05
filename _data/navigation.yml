@@ -3,5 +3,8 @@ main:
   - title: "About Me"
     url: /about
 
+  - title: "Travel"
+    url: /travel.md
+
   - title: "Sample Navigation Link 2"
     url: /
