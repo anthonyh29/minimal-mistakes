@@ -4,7 +4,7 @@ main:
     url: /about
 
   - title: "Travel"
-    url: /travel.md
+    url: /travel
 
   - title: "Sample Navigation Link 2"
     url: /
